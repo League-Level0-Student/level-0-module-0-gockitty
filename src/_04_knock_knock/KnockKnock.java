@@ -6,7 +6,7 @@ public class KnockKnock {
 
 	public static void main(String[] args) {
 		
-		JOptionPane.showMessageDialog(null,"Knock,Knock\nWho's there?\nOrange\nWho's there?\nOrange\nWho's there?!\nOrange\nI said who's there!!!");	
+		JOptionPane.showMessageDialog(null,"Knock,Knock\nWho's there?\nOrange\nWho's there?\nOrange\nWho's there?!\nOrange\nI said who's there!!!\n Orange you glad I did'ent say OrAnGe?");	
 		
 		
 	
